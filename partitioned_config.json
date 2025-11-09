@@ -1,0 +1,17 @@
+{
+  "frequency": "daily",
+  "period": "5",
+  "adjust": "qfq",
+  "start": "2020-10-01",
+  "end": "2020-12-31",
+  "symbols_file": "",
+  "output_root": "data",
+  "temp_root": "tmp/ingest",
+  "manifest": "data/manifest.json",
+  "limit": 0,
+  "resume": true,
+  "sleep": 0.05,
+  "max_workers": 16,
+  "merge_workers": 4,
+  "keep_temp": false
+}

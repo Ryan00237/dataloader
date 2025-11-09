@@ -21,11 +21,3 @@ tmp/
 data/daily_manifest.json
 data/minute_manifest.json
 data/em_minute_manifest.json
-
-# Local configs (keep templates only)
-baostock_config.json
-eastmoney_config.json
-partitioned_config.json
-partitioned_config_minute.json
-eastmoney_config.json
-

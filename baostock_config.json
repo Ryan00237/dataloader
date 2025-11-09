@@ -1,0 +1,10 @@
+{
+  "start": "2025-11-01",
+  "end": "2025-11-07",
+  "symbols": [],
+  "symbols_file": "",
+  "symbols_mode": "all",
+  "include_bj": true,
+  "output_root": "baostock_data",
+  "keep_temp": false
+}

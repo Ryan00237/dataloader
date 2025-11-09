@@ -1,0 +1,15 @@
+{
+  "start": "2025-10-01 09:30:00",
+  "end": "2025-10-31 15:00:00",
+  "period": "5",
+  "adjust": "",
+  "symbols_file": "",
+  "output_root": "data_em_minute",
+  "temp_root": "tmp/ingest_em_minute",
+  "manifest": "data/em_minute_manifest.json",
+  "limit": 0,
+  "resume": true,
+  "sleep": 0.1,
+  "max_workers": 5,
+  "keep_temp": false
+}

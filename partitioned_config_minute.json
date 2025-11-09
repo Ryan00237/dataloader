@@ -1,0 +1,17 @@
+{
+  "frequency": "minute",
+  "period": "5",
+  "adjust": "",
+  "start": "2025-01-01",
+  "end": "2025-10-31",
+  "symbols_file": "",
+  "output_root": "data_minute",
+  "temp_root": "tmp/ingest_minute",
+  "manifest": "data/minute_manifest.json",
+  "limit": 0,
+  "resume": true,
+  "sleep": 0.05,
+  "max_workers": 16,
+  "merge_workers": 4,
+  "keep_temp": false
+}
