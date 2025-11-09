@@ -1,0 +1,31 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+Untitled.ipynb
+
+data/
+data_daily/
+data_minute/
+data_em_minute/
+baostock_data/
+tmp/
+
+# Manifest/config outputs
+*.parquet.as.json
+
+# Logs/manifest files generated during downloads
+data/daily_manifest.json
+data/minute_manifest.json
+data/em_minute_manifest.json
+
+# Local configs (keep templates only)
+baostock_config.json
+eastmoney_config.json
+partitioned_config.json
+partitioned_config_minute.json
+eastmoney_config.json
+
